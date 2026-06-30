@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR4e0076/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4e0076/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靜學文集
+  date: '2015-08-25 00:18:37.841060'
+  source:
+    repository: kanripo
+    path: KR4e0076
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4e0076_000-WYG.yaml, hash: 'sha256:d481bfc3b7e7759cad14c30152efac38c3be75a9eb89b91acd81ea203c066ef4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4e0076_000-WYG.markers.yaml, hash: 'sha256:9639200ece634432ea80355a191aefb914a4ef001beb5913bd65d6d86f5975b1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4e0076_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 477
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4e0076_WYG_000-3a
+    span:
+    - body
+    - 477
+    - 1564
+  label: 本傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4e0076_WYG_000-7a
+    span:
+    - body
+    - 1564
+    - 2279
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4e0076_WYG_000-10a
+    span:
+    - body
+    - 2279
+    - 19038
+  label: 静學文集
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4e0076_WYG_000-63a
+    span:
+    - body
+    - 19038
+    - 19412
+  label: 書静學王先生文集後
+  type: section
+  level: 1
+hash: sha256:795f1c2564d0cadd60a2313a11df4d9529d202a0392b7d13018052ce54f599d2
