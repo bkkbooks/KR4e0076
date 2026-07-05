@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4e0076_000.yaml, hash: 'sha256:ac784d59510e204c5ede32f9f37a877d2456566b4b2b991591bf5861476da4c5'}
+  - {seq: 0, filename: KR4e0076_000.yaml, hash: 'sha256:e39ee8f22fb3617a714b618a5f820106052c178befefc606facef01dd1e9d2b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4e0076_000.markers.yaml, hash: 'sha256:9324dfafddacc9f751eb0dd8187c43c5a5e1817f80fd563653e67c565ecdc12b'}
+  - {seq: 0, role: markers, filename: assets/KR4e0076_000.markers.yaml, hash: 'sha256:98de8e487a5968dd60282c7c3c14c1cdab30982665340c43d64371dbeb97e95c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -74,7 +74,4 @@ table_of_contents:
   label: 書静學王先生文集後
   type: section
   level: 1
-hash: sha256:a634bb0748d209803fca3507a1cd6eaa783e8073388f4e69a371e5491d2f1aad
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a3cc0d3820d77567bb63c3d7d9fa361b42261b0b7e86ac60c206c5ce892bcdae
