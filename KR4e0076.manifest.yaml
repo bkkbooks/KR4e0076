@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4e0076/v1
 canonical_location: https://kanripo.org/bkk/KR4e0076/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 靜學文集
   date: '2015-08-25 00:18:37.841060'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4e0076_000.yaml, hash: 'sha256:e39ee8f22fb3617a714b618a5f820106052c178befefc606facef01dd1e9d2b0'}
+  - {seq: 0, filename: KR4e0076_000.yaml, hash: 'sha256:17924f4d715b125d663480c9b48721284e47dacaa0589d1bf1dc6ec7998ddf0d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4e0076_000.markers.yaml, hash: 'sha256:98de8e487a5968dd60282c7c3c14c1cdab30982665340c43d64371dbeb97e95c'}
+  - {seq: 0, role: markers, filename: assets/KR4e0076_000.markers.yaml, hash: 'sha256:9964e5438e4434327099e3f9dec27d02d5e0397de540e414edb1e35107a820d8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -74,4 +74,7 @@ table_of_contents:
   label: 書静學王先生文集後
   type: section
   level: 1
-hash: sha256:a3cc0d3820d77567bb63c3d7d9fa361b42261b0b7e86ac60c206c5ce892bcdae
+hash: sha256:c7af31dd3225180bb820d7e654340d0d74be3a8b8977bad662505cc37163a4f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
