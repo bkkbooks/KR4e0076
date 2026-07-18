@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4e0076_000-WYG.yaml, hash: 'sha256:d481bfc3b7e7759cad14c30152efac38c3be75a9eb89b91acd81ea203c066ef4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4e0076_000-WYG.markers.yaml, hash: 'sha256:9639200ece634432ea80355a191aefb914a4ef001beb5913bd65d6d86f5975b1'}
+  - {seq: 0, role: markers, filename: assets/KR4e0076_000-WYG.markers.yaml, hash: 'sha256:c291700edd03c4f97c3fc362e4427a88ac11b652ab1f256dbbf4d85e53ba9d49'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,4 +71,4 @@ table_of_contents:
   label: 書静學王先生文集後
   type: section
   level: 1
-hash: sha256:795f1c2564d0cadd60a2313a11df4d9529d202a0392b7d13018052ce54f599d2
+hash: sha256:601777b18c9917434318dee665e96d3440a80650065c168c898d58ddc514984c

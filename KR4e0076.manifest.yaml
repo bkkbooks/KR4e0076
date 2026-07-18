@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4e0076_000.yaml, hash: 'sha256:17924f4d715b125d663480c9b48721284e47dacaa0589d1bf1dc6ec7998ddf0d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4e0076_000.markers.yaml, hash: 'sha256:9964e5438e4434327099e3f9dec27d02d5e0397de540e414edb1e35107a820d8'}
+  - {seq: 0, role: markers, filename: assets/KR4e0076_000.markers.yaml, hash: 'sha256:c6c6404d4dc41e0391a07ae1691546c7a4d074e33dca43f3d00faec2fff48b97'}
 table_of_contents:
 - ref:
     seq: 0
@@ -74,7 +74,7 @@ table_of_contents:
   label: 書静學王先生文集後
   type: section
   level: 1
-hash: sha256:c7af31dd3225180bb820d7e654340d0d74be3a8b8977bad662505cc37163a4f2
+hash: sha256:1987a12373f090d97fdd99ed652b967ee883500a41a20c6a4b75f6500b2577f2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
